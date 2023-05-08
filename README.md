@@ -20,4 +20,4 @@ To get started with this project, simply clone the repository and open the `home
 ![1](https://cdn.discordapp.com/attachments/795250428090515468/1105188441118998579/image.png)
 
 ## Youtube Video
-[Video](yt.com)
+[Video](https://youtu.be/Y7WBgOEyEgs)
